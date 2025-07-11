@@ -38,3 +38,24 @@
     text-align: center;
     padding: 309px 267.5px 152px;
 }
+.Action{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1140px;
+  align-items: center;
+  margin: 116px auto; 
+  padding: 0 150px;   
+}
+
+.cont{
+    font-size: 42px;
+    font-weight: 700;
+}
+.sub{
+    font-size: 24px;
+    color: #252432;
+}
+.image img {
+    
+    border-radius: 48px;
+}
