@@ -53,9 +53,37 @@
 }
 .sub{
     font-size: 24px;
-    color: #252432;
+    color: #2524327F;
 }
 .image img {
     
     border-radius: 48px;
+}
+.prod{
+    text-align: center;
+    max-width: 1140px;
+    margin: 116px auto; 
+  background-color: #4E47FF1A;
+  padding: 50px 80px;
+  border-radius: 24px;
+
+
+}
+.prod2{
+    display: flex;
+    justify-content: space-between;
+}
+.prod-des{
+    font-size: 38px;
+    font-weight: bold;
+}
+.k{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4e47ff;
+
+}
+.au{
+    font-size: 20px;
+    color: #2524327F;
 }
